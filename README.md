@@ -2,6 +2,8 @@
 Econometrics Math Camp 2021
 =================================
 
+![metrics math camp poster](misc/woodstock.jpeg?raw=true)
+
 This repository contains the documents that will be used in the econometrics portion of the Harvard Economics math camp for incoming first-year Ph.D. students.
 
 The folder 'Notes' contains a master notes document that covers all of the content we will cover in math camp. 
