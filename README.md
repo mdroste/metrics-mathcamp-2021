@@ -21,7 +21,7 @@ Content
 
 ### Slides
 
-- [Day 1](/Slides/day1.pdf)
+- [Day 1](/Slides/day1_slides.pdf)
 
 ### Worksheets
 
