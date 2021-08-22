@@ -23,13 +23,23 @@ Content
 
 - [Day 1](/Slides/day1_slides.pdf)
 
+- [Day 2](/Slides/day2_slides.pdf) 
+
+- Day 3 (forthcoming)
+
 ### Worksheets
 
 - [Worksheet 1](/Worksheets/worksheet1.pdf) (Day 1, Morning)
 
 - [Worksheet 2](/Worksheets/worksheet2.pdf) (Day 1, Afternoon)
 
-Rest of content (days 2 and 3) to be posted soon.
+- [Worksheet 3](/Worksheets/worksheet3.pdf) (Day 2, Morning)
+
+- [Worksheet 4](/Worksheets/worksheet4.pdf) (Day 2, Afternoon)
+
+- [Worksheet 5](/Worksheets/worksheet5.pdf) (Day 2, Morning)
+
+Rest of content (day 3) to be posted soon.
 
 Acknowledgements
 ---------------------------------
