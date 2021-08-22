@@ -37,7 +37,7 @@ Content
 
 - [Worksheet 4](/Worksheets/worksheet4.pdf) (Day 2, Afternoon)
 
-- [Worksheet 5](/Worksheets/worksheet5.pdf) (Day 2, Morning)
+- Worksheet 5 (forthcoming)
 
 Rest of content (day 3) to be posted soon.
 
