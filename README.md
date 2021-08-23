@@ -25,7 +25,7 @@ Content
 
 - [Day 2](/Slides/day2_slides.pdf) 
 
-- Day 3 (forthcoming)
+- [Day 3](/Slides/day3_slides.pdf) 
 
 ### Worksheets
 
@@ -37,11 +37,7 @@ Content
 
 - [Worksheet 4](/Worksheets/worksheet4.pdf) (Day 2, Afternoon)
 
-- Worksheet 5 (forthcoming)
-
-Rest of content (day 3) to be posted soon.
-
 Acknowledgements
 ---------------------------------
 
-This content was developed between 2018 and 2021 by Ashesh Rambachan, Frank Pinter, and myself (Michael Droste). Notes are drawn from many sources referenced in the text, with a particular aim to align with Gary Chamberlain's econometrics [lecture notes](https://github.com/paulgp/GaryChamberlainLectureNotes/).
+This content was developed between 2018 and 2021 by Ashesh Rambachan, Frank Pinter, and myself (Michael Droste). Notes are drawn from many sources referenced in the text, with a particular aim to align with Gary Chamberlain's econometrics [lecture notes](https://github.com/paulgp/GaryChamberlainLectureNotes/) and Isaiah Andrews' course materials for first-year graduate econometrics.
